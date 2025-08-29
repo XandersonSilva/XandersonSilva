@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/XandersonSilva">Xanderson Silva</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/xanderson-silva">Xanderson Silva</a></h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
+My portfolio: https://xandersonsilva.github.io/Portfolio/
 
 ### 👋 Quick Intro
 
@@ -11,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/xanderson-silva-4b33b42a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xanderson-silva-4b33b42a0/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/xanderson-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xanderson-silva-4b33b42a0/" height="30" width="40" /></a>
 <a href="https://instagram.com/x.s.s____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.s.s____" height="30" width="40" /></a>
 </p>
 
@@ -80,3 +81,4 @@ I'm particularly interested in web development, APIs, and database architecture.
 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=xandersonsilva&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
